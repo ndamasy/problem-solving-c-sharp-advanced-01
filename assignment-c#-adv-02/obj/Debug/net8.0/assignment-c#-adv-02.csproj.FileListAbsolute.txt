@@ -1,0 +1,14 @@
+F:\nemo-art\back end\assignments\assignment-c#-adv-02\obj\Debug\net8.0\assignment-c#-adv-02.GeneratedMSBuildEditorConfig.editorconfig
+F:\nemo-art\back end\assignments\assignment-c#-adv-02\obj\Debug\net8.0\assignment-c#-adv-02.AssemblyInfoInputs.cache
+F:\nemo-art\back end\assignments\assignment-c#-adv-02\obj\Debug\net8.0\assignment-c#-adv-02.AssemblyInfo.cs
+F:\nemo-art\back end\assignments\assignment-c#-adv-02\obj\Debug\net8.0\assignment-c#-adv-02.csproj.CoreCompileInputs.cache
+F:\nemo-art\back end\assignments\assignment-c#-adv-02\bin\Debug\net8.0\assignment-c#-adv-02.exe
+F:\nemo-art\back end\assignments\assignment-c#-adv-02\bin\Debug\net8.0\assignment-c#-adv-02.deps.json
+F:\nemo-art\back end\assignments\assignment-c#-adv-02\bin\Debug\net8.0\assignment-c#-adv-02.runtimeconfig.json
+F:\nemo-art\back end\assignments\assignment-c#-adv-02\bin\Debug\net8.0\assignment-c#-adv-02.dll
+F:\nemo-art\back end\assignments\assignment-c#-adv-02\bin\Debug\net8.0\assignment-c#-adv-02.pdb
+F:\nemo-art\back end\assignments\assignment-c#-adv-02\obj\Debug\net8.0\assignment-c#-adv-02.dll
+F:\nemo-art\back end\assignments\assignment-c#-adv-02\obj\Debug\net8.0\refint\assignment-c#-adv-02.dll
+F:\nemo-art\back end\assignments\assignment-c#-adv-02\obj\Debug\net8.0\assignment-c#-adv-02.pdb
+F:\nemo-art\back end\assignments\assignment-c#-adv-02\obj\Debug\net8.0\assignment-c#-adv-02.genruntimeconfig.cache
+F:\nemo-art\back end\assignments\assignment-c#-adv-02\obj\Debug\net8.0\ref\assignment-c#-adv-02.dll
